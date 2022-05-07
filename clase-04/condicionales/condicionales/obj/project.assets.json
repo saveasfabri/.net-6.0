@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-03\\calculo-zc\\calculo-zc\\calculo-zc.csproj",
-      "projectName": "calculo-zc",
-      "projectPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-03\\calculo-zc\\calculo-zc\\calculo-zc.csproj",
+      "projectUniqueName": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-04\\condicionales\\condicionales\\condicionales.csproj",
+      "projectName": "condicionales",
+      "projectPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-04\\condicionales\\condicionales\\condicionales.csproj",
       "packagesPath": "C:\\Users\\fazer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-03\\calculo-zc\\calculo-zc\\obj\\",
+      "outputPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-04\\condicionales\\condicionales\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fazer\\AppData\\Roaming\\NuGet\\NuGet.Config",

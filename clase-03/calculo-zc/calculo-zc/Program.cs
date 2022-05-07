@@ -28,6 +28,7 @@ if (esMayorADiez)
     Console.WriteLine("La superficie del rectangulo es mayor a 10");
 }
 
+Console.WriteLine(); // Deja esta línea en blanco-separación
 
 Console.WriteLine("Presione una tecla para finalizar...");
 Console.ReadKey();
