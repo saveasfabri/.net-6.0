@@ -1,0 +1,15 @@
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\bin\Debug\net6.0\saludo.exe
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\bin\Debug\net6.0\saludo.deps.json
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\bin\Debug\net6.0\saludo.runtimeconfig.json
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\bin\Debug\net6.0\saludo.dll
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\bin\Debug\net6.0\saludo.pdb
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\obj\Debug\net6.0\saludo.csproj.AssemblyReference.cache
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\obj\Debug\net6.0\saludo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\obj\Debug\net6.0\saludo.AssemblyInfoInputs.cache
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\obj\Debug\net6.0\saludo.AssemblyInfo.cs
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\obj\Debug\net6.0\saludo.csproj.CoreCompileInputs.cache
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\obj\Debug\net6.0\saludo.dll
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\obj\Debug\net6.0\refint\saludo.dll
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\obj\Debug\net6.0\saludo.pdb
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\obj\Debug\net6.0\saludo.genruntimeconfig.cache
+C:\Users\fazer\Desktop\NET\Clase 03\saludo\saludo\obj\Debug\net6.0\ref\saludo.dll

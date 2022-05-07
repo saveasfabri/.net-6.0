@@ -1,0 +1,15 @@
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\bin\Debug\net6.0\calculo-zc.exe
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\bin\Debug\net6.0\calculo-zc.deps.json
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\bin\Debug\net6.0\calculo-zc.runtimeconfig.json
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\bin\Debug\net6.0\calculo-zc.dll
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\bin\Debug\net6.0\calculo-zc.pdb
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\obj\Debug\net6.0\calculo-zc.csproj.AssemblyReference.cache
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\obj\Debug\net6.0\calculo-zc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\obj\Debug\net6.0\calculo-zc.AssemblyInfoInputs.cache
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\obj\Debug\net6.0\calculo-zc.AssemblyInfo.cs
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\obj\Debug\net6.0\calculo-zc.csproj.CoreCompileInputs.cache
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\obj\Debug\net6.0\calculo-zc.dll
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\obj\Debug\net6.0\refint\calculo-zc.dll
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\obj\Debug\net6.0\calculo-zc.pdb
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\obj\Debug\net6.0\calculo-zc.genruntimeconfig.cache
+C:\Users\fazer\Desktop\NET\Clase 03\calculo-zc\calculo-zc\obj\Debug\net6.0\ref\calculo-zc.dll

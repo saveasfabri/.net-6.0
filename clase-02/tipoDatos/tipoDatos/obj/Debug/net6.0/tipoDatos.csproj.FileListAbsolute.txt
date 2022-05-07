@@ -1,0 +1,15 @@
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\bin\Debug\net6.0\tipoDatos.exe
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\bin\Debug\net6.0\tipoDatos.deps.json
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\bin\Debug\net6.0\tipoDatos.runtimeconfig.json
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\bin\Debug\net6.0\tipoDatos.dll
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\bin\Debug\net6.0\tipoDatos.pdb
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\obj\Debug\net6.0\tipoDatos.csproj.AssemblyReference.cache
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\obj\Debug\net6.0\tipoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\obj\Debug\net6.0\tipoDatos.AssemblyInfoInputs.cache
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\obj\Debug\net6.0\tipoDatos.AssemblyInfo.cs
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\obj\Debug\net6.0\tipoDatos.csproj.CoreCompileInputs.cache
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\obj\Debug\net6.0\tipoDatos.dll
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\obj\Debug\net6.0\refint\tipoDatos.dll
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\obj\Debug\net6.0\tipoDatos.pdb
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\obj\Debug\net6.0\tipoDatos.genruntimeconfig.cache
+C:\Users\fazer\Desktop\NET\Clase 02\tipoDatos\tipoDatos\obj\Debug\net6.0\ref\tipoDatos.dll
