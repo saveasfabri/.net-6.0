@@ -1,0 +1,15 @@
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\bin\Debug\net6.0\tarea_clase-05.exe
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\bin\Debug\net6.0\tarea_clase-05.deps.json
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\bin\Debug\net6.0\tarea_clase-05.runtimeconfig.json
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\bin\Debug\net6.0\tarea_clase-05.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\bin\Debug\net6.0\tarea_clase-05.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\obj\Debug\net6.0\tarea_clase-05.csproj.AssemblyReference.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\obj\Debug\net6.0\tarea_clase-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\obj\Debug\net6.0\tarea_clase-05.AssemblyInfoInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\obj\Debug\net6.0\tarea_clase-05.AssemblyInfo.cs
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\obj\Debug\net6.0\tarea_clase-05.csproj.CoreCompileInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\obj\Debug\net6.0\tarea_clase-05.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\obj\Debug\net6.0\refint\tarea_clase-05.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\obj\Debug\net6.0\tarea_clase-05.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\obj\Debug\net6.0\tarea_clase-05.genruntimeconfig.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-05\tarea_clase-05\tarea_clase-05\obj\Debug\net6.0\ref\tarea_clase-05.dll
