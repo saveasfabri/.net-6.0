@@ -1,0 +1,15 @@
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\bin\Debug\net6.0\ciclos.exe
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\bin\Debug\net6.0\ciclos.deps.json
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\bin\Debug\net6.0\ciclos.runtimeconfig.json
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\bin\Debug\net6.0\ciclos.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\bin\Debug\net6.0\ciclos.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\obj\Debug\net6.0\ciclos.csproj.AssemblyReference.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\obj\Debug\net6.0\ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\obj\Debug\net6.0\ciclos.AssemblyInfoInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\obj\Debug\net6.0\ciclos.AssemblyInfo.cs
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\obj\Debug\net6.0\ciclos.csproj.CoreCompileInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\obj\Debug\net6.0\ciclos.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\obj\Debug\net6.0\refint\ciclos.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\obj\Debug\net6.0\ciclos.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\obj\Debug\net6.0\ciclos.genruntimeconfig.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-05\ciclos\ciclos\obj\Debug\net6.0\ref\ciclos.dll

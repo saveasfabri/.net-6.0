@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-03\\calculo-zc\\calculo-zc\\calculo-zc.csproj": {}
+    "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-05\\ciclos\\ciclos\\ciclos.csproj": {}
   },
   "projects": {
-    "c:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-03\\calculo-zc\\calculo-zc\\calculo-zc.csproj": {
+    "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-05\\ciclos\\ciclos\\ciclos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-03\\calculo-zc\\calculo-zc\\calculo-zc.csproj",
-        "projectName": "calculo-zc",
-        "projectPath": "c:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-03\\calculo-zc\\calculo-zc\\calculo-zc.csproj",
+        "projectUniqueName": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-05\\ciclos\\ciclos\\ciclos.csproj",
+        "projectName": "ciclos",
+        "projectPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-05\\ciclos\\ciclos\\ciclos.csproj",
         "packagesPath": "C:\\Users\\fazer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-03\\calculo-zc\\calculo-zc\\obj\\",
+        "outputPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-05\\ciclos\\ciclos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fazer\\AppData\\Roaming\\NuGet\\NuGet.Config",
