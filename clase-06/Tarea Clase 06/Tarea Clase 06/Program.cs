@@ -60,7 +60,7 @@ do {
         Console.WriteLine("¡El número ingresado es muy grande! Intentálo de nuevo...");
         contador++;
     }
-    else if (numeroIngresado < numeroSecreto && numeroIngresado != 0)
+    else if (numeroIngresado < numeroSecreto && numeroIngresado != 0 && numeroIngresado > 0)
     {
         Console.WriteLine("¡El número ingresado es muy chico! Intentálo de nuevo...");
         contador++;
@@ -87,5 +87,5 @@ do {
 } 
 while (numeroIngresado != numeroSecreto && numeroIngresado != 0);
 
-// Y...fin del programaaa
+// Y...in del programaaa
 //by Fabricio Hang
