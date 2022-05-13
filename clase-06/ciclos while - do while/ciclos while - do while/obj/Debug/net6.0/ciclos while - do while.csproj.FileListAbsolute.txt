@@ -1,0 +1,15 @@
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\bin\Debug\net6.0\ciclos while - do while.exe
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\bin\Debug\net6.0\ciclos while - do while.deps.json
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\bin\Debug\net6.0\ciclos while - do while.runtimeconfig.json
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\bin\Debug\net6.0\ciclos while - do while.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\bin\Debug\net6.0\ciclos while - do while.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\obj\Debug\net6.0\ciclos while - do while.csproj.AssemblyReference.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\obj\Debug\net6.0\ciclos while - do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\obj\Debug\net6.0\ciclos while - do while.AssemblyInfoInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\obj\Debug\net6.0\ciclos while - do while.AssemblyInfo.cs
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\obj\Debug\net6.0\ciclos while - do while.csproj.CoreCompileInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\obj\Debug\net6.0\ciclos while - do while.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\obj\Debug\net6.0\refint\ciclos while - do while.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\obj\Debug\net6.0\ciclos while - do while.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\obj\Debug\net6.0\ciclos while - do while.genruntimeconfig.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-06\ciclos while - do while\ciclos while - do while\obj\Debug\net6.0\ref\ciclos while - do while.dll
