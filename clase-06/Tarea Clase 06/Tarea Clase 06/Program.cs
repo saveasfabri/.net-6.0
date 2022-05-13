@@ -87,5 +87,5 @@ do {
 } 
 while (numeroIngresado != numeroSecreto && numeroIngresado != 0);
 
-// Y...Fin del programaaa
+// Y...fin del programaaa
 //by Fabricio Hang
