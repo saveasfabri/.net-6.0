@@ -2,7 +2,7 @@
 
 //Tarea Clase 06
 
-// 1) Generar un número secreto aleatorio con la siguiente instruccion:
+//1) Generar un número secreto aleatorio con la siguiente instruccion:
 //// Genera un numero entero aleatorio de 1 a 20
 //int numeroSecreto = new Random(DateTime.Now.Millisecond).Next(1, 21);
 
@@ -35,57 +35,65 @@ Console.WriteLine("(Si quiere salir de programa antes de adivinar, ingrese el n�
 Console.WriteLine();
 
 int numeroIngresado;
-do {
-    Console.Write("Ingrese un número de 1 a 20: ");
-    numeroIngresado = int.Parse(Console.ReadLine());
-    Console.WriteLine();
+do
+{
+  Console.Write("Ingrese un número de 1 a 20: ");
+  numeroIngresado = int.Parse(Console.ReadLine());
+  Console.WriteLine();
 
     if (numeroIngresado == numeroSecreto)
     {
         Console.WriteLine($"¡Felicitaciones! Has adivinado el número secreto que era: {numeroSecreto}");
         if (contador == 0)
         {
-            Console.WriteLine($"¿Magia o suerte?¡Lo has logrado en el primer intento!");
+          Console.WriteLine($"¿Magia o suerte?¡Lo has logrado en el primer intento!");
         }
         else if (contador == 1)
         {
-            Console.WriteLine($"¡Lo has logrado en el segundo intento!");
+          Console.WriteLine($"¡Lo has logrado en el segundo intento!");
         }
-        else {
-            Console.WriteLine($"Lo has logrado luego de {contador} intentos");
+        else
+        {
+          Console.WriteLine($"Lo has logrado luego de {contador} intentos");
         }
     }
-    else if(numeroIngresado > numeroSecreto && numeroIngresado < 21)
+      else if (numeroIngresado > numeroSecreto && numeroIngresado < 21)
     {
-        Console.WriteLine("¡El número ingresado es muy grande! Intentálo de nuevo...");
-        contador++;
+      Console.WriteLine("¡El número ingresado es muy grande! Intentálo de nuevo...");
+      contador++;
     }
     else if (numeroIngresado < numeroSecreto && numeroIngresado != 0 && numeroIngresado > 0)
     {
-        Console.WriteLine("¡El número ingresado es muy chico! Intentálo de nuevo...");
-        contador++;
+      Console.WriteLine("¡El número ingresado es muy chico! Intentálo de nuevo...");
+      contador++;
     }
     else if (numeroIngresado < 0 || numeroIngresado > 20)
     {
-        Console.WriteLine("Wuow, era entre 1 y 20!! Intentálo de nuevo...");
-        contador++;
+      Console.WriteLine("Wuow, era entre 1 y 20!! Intentálo de nuevo...");
+      contador++;
     }
     else if (numeroIngresado == 0)
     {
         if (contador == 0)
         {
-            Console.WriteLine($"¡Que poca paciencia! Ni siquiera lo intentaste.Vuelve pronto...");
+          Console.WriteLine($"¡Que poca paciencia! Ni siquiera lo intentaste.Vuelve pronto...");
         }
-        else if(contador==1) {
-            Console.WriteLine($"¡Que poca paciencia! Solo lo intentaste 1 vez.Vuelve pronto...");
+        else if (contador == 1)
+        {
+          Console.WriteLine($"¡Que poca paciencia! Solo lo intentaste 1 vez.Vuelve pronto...");
 
         }
-        else { Console.WriteLine($"¡Que poca paciencia! Solo lo intentaste {contador} veces.Vuelve pronto...");
+        else
+        {
+          Console.WriteLine($"¡Que poca paciencia! Solo lo intentaste {contador} veces.Vuelve pronto...");
 
         }
     }
-} 
-while (numeroIngresado != numeroSecreto && numeroIngresado != 0);
+}
 
-// Y...in del programaaa
+while (numeroIngresado != numeroSecreto && numeroIngresado != 0) ;
+
+// Y...fin del programaaa
 //by Fabricio Hang
+
+
