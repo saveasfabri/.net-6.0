@@ -28,23 +28,23 @@ Console.WriteLine("por favor ingrese numeros");
 //numeros[3] = int.Parse(Console.ReadLine());
 //numeros[4] = int.Parse(Console.ReadLine());
 
-//for (int i = 0; i < numeros.Length; i++)
-//{
-//  Console.WriteLine($"por favor ingrse el numero: {i + 1}");
-//  numeros[i] = int.Parse(Console.ReadLine());
-//}
+for (int i = 0; i < numeros.Length; i++)
+{
+  Console.WriteLine($"por favor ingrse el numero: {i + 1}");
+  numeros[i] = int.Parse(Console.ReadLine());
+}
 
-//int suma = 0;
-//for (int i = 0; i < numeros.Length; i++)
-//{
-//  //suma += numeros[i];
-//  suma = suma + numeros[i];
-//}
-//Console.WriteLine($"valor de suma = {suma}");
+int suma = 0;
+for (int i = 0; i < numeros.Length; i++)
+{
+  //suma += numeros[i];
+  suma = suma + numeros[i];
+}
+Console.WriteLine($"valor de suma = {suma}");
 
-//Console.WriteLine("los valores son: ");
+Console.WriteLine("los valores son: ");
 
-//for (int i = 0; i < numeros.Length; i++)
-//{
-//  Console.WriteLine(numeros[i]);
-//}
+for (int i = 0; i < numeros.Length; i++)
+{
+  Console.WriteLine(numeros[i]);
+}
