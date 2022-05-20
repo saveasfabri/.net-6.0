@@ -119,5 +119,8 @@ Console.WriteLine();
 Console.WriteLine("Nos vemos en la próxima...");
 Console.WriteLine();
 
+Console.WriteLine("Presione una tecla para salir.");
+Console.ReadKey();
+
 //Y...Fin del programa!!!
 //by Fabricio Hang
