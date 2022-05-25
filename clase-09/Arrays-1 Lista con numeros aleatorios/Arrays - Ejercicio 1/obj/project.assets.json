@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\Clase-09\\Arrays-1_listaNumerosAleatorios\\Arrays - Ejercicio 1\\Arrays - Ejercicio 1.csproj",
+      "projectUniqueName": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-09\\Arrays-1 Lista con numeros aleatorios\\Arrays - Ejercicio 1\\Arrays - Ejercicio 1.csproj",
       "projectName": "Arrays - Ejercicio 1",
-      "projectPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\Clase-09\\Arrays-1_listaNumerosAleatorios\\Arrays - Ejercicio 1\\Arrays - Ejercicio 1.csproj",
+      "projectPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-09\\Arrays-1 Lista con numeros aleatorios\\Arrays - Ejercicio 1\\Arrays - Ejercicio 1.csproj",
       "packagesPath": "C:\\Users\\fazer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\Clase-09\\Arrays-1_listaNumerosAleatorios\\Arrays - Ejercicio 1\\obj\\",
+      "outputPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-09\\Arrays-1 Lista con numeros aleatorios\\Arrays - Ejercicio 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fazer\\AppData\\Roaming\\NuGet\\NuGet.Config",

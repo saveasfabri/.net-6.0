@@ -18,7 +18,7 @@ var contador = 0;
 foreach (var i in miVector)
 {
   contador++;
-  Console.WriteLine(contador + ": " + i + " ");
+  Console.WriteLine($" {contador}): {i}");
 }
 
 Console.WriteLine();
