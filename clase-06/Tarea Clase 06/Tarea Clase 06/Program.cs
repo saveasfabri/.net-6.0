@@ -44,6 +44,7 @@ do
     if (numeroIngresado == numeroSecreto)
     {
         Console.WriteLine($"¡Felicitaciones! Has adivinado el número secreto que era: {numeroSecreto}");
+     
         if (contador == 0)
         {
           Console.WriteLine($"¿Magia o suerte?¡Lo has logrado en el primer intento!");

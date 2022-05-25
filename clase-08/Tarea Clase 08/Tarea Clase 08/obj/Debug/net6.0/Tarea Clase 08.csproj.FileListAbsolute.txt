@@ -1,0 +1,15 @@
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\bin\Debug\net6.0\Tarea Clase 08.exe
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\bin\Debug\net6.0\Tarea Clase 08.deps.json
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\bin\Debug\net6.0\Tarea Clase 08.runtimeconfig.json
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\bin\Debug\net6.0\Tarea Clase 08.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\bin\Debug\net6.0\Tarea Clase 08.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\obj\Debug\net6.0\Tarea Clase 08.csproj.AssemblyReference.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\obj\Debug\net6.0\Tarea Clase 08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\obj\Debug\net6.0\Tarea Clase 08.AssemblyInfoInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\obj\Debug\net6.0\Tarea Clase 08.AssemblyInfo.cs
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\obj\Debug\net6.0\Tarea Clase 08.csproj.CoreCompileInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\obj\Debug\net6.0\Tarea Clase 08.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\obj\Debug\net6.0\refint\Tarea Clase 08.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\obj\Debug\net6.0\Tarea Clase 08.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\obj\Debug\net6.0\Tarea Clase 08.genruntimeconfig.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-08\Tarea Clase 08\Tarea Clase 08\obj\Debug\net6.0\ref\Tarea Clase 08.dll
