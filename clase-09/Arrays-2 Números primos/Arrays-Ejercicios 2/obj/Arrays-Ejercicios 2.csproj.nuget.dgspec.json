@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fazer\\source\\repos\\.net-6.0\\Clase-09\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2.csproj": {}
+    "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-09\\Arrays-2 Números primos\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fazer\\source\\repos\\.net-6.0\\Clase-09\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2.csproj": {
+    "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-09\\Arrays-2 Números primos\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\Clase-09\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2.csproj",
+        "projectUniqueName": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-09\\Arrays-2 Números primos\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2.csproj",
         "projectName": "Arrays-Ejercicios 2",
-        "projectPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\Clase-09\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2.csproj",
+        "projectPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-09\\Arrays-2 Números primos\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2.csproj",
         "packagesPath": "C:\\Users\\fazer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\Clase-09\\Arrays-Ejercicios 2\\Arrays-Ejercicios 2\\obj\\",
+        "outputPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase-09\\Arrays-2 Números primos\\Arrays-Ejercicios 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fazer\\AppData\\Roaming\\NuGet\\NuGet.Config",

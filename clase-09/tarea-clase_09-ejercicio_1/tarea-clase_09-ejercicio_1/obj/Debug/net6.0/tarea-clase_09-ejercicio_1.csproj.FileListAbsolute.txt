@@ -1,0 +1,15 @@
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\bin\Debug\net6.0\tarea-clase_09-ejercicio_1.exe
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\bin\Debug\net6.0\tarea-clase_09-ejercicio_1.deps.json
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\bin\Debug\net6.0\tarea-clase_09-ejercicio_1.runtimeconfig.json
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\bin\Debug\net6.0\tarea-clase_09-ejercicio_1.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\bin\Debug\net6.0\tarea-clase_09-ejercicio_1.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\obj\Debug\net6.0\tarea-clase_09-ejercicio_1.csproj.AssemblyReference.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\obj\Debug\net6.0\tarea-clase_09-ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\obj\Debug\net6.0\tarea-clase_09-ejercicio_1.AssemblyInfoInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\obj\Debug\net6.0\tarea-clase_09-ejercicio_1.AssemblyInfo.cs
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\obj\Debug\net6.0\tarea-clase_09-ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\obj\Debug\net6.0\tarea-clase_09-ejercicio_1.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\obj\Debug\net6.0\refint\tarea-clase_09-ejercicio_1.dll
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\obj\Debug\net6.0\tarea-clase_09-ejercicio_1.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\obj\Debug\net6.0\tarea-clase_09-ejercicio_1.genruntimeconfig.cache
+C:\Users\fazer\source\repos\.net-6.0\clase-09\tarea-clase_09-ejercicio_1\tarea-clase_09-ejercicio_1\obj\Debug\net6.0\ref\tarea-clase_09-ejercicio_1.dll

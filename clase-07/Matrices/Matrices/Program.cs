@@ -30,7 +30,7 @@ Console.WriteLine("por favor ingrese numeros");
 
 for (int i = 0; i < numeros.Length; i++)
 {
-  Console.WriteLine($"por favor ingrse el numero: {i + 1}");
+  Console.WriteLine($"por favor ingrese el numero: {i + 1}");
   numeros[i] = int.Parse(Console.ReadLine());
 }
 
@@ -48,3 +48,4 @@ for (int i = 0; i < numeros.Length; i++)
 {
   Console.WriteLine(numeros[i]);
 }
+

@@ -2,8 +2,7 @@
 //Diseñar un programa que permita insertar un valor x en el lugar k-ésimo del array
 
 Console.WriteLine("Ingrese el tamaño deseado para el listado:");
-var dato = Console.ReadLine();
-int n = int.Parse(dato);
+int n = int.Parse(Console.ReadLine());
 
 int[] miVector = new int[n];
 
