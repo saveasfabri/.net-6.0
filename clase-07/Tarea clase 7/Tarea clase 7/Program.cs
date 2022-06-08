@@ -1,5 +1,7 @@
 ﻿//Tarea clase 07
 
+// Resolucion: https://www.youtube.com/watch?v=ao085xwu9fo
+
 //Escribe un programa que:
 
 //1) Pida 10 números al usuario.
