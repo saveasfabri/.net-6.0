@@ -1,4 +1,8 @@
-﻿/*Con los conocimientos vistos hasta ahora en clase realizar un programa que haga lo siguiente:
+// Tarea Clase 9 - Ejercicio 1 26/05/22
+
+// Resolución: 
+
+/*Con los conocimientos vistos hasta ahora en clase realizar un programa que haga lo siguiente:
 
 1)  Pedir al usuario la longitud de un vector
 2)  Crear el vector del tamaño ingresado.
