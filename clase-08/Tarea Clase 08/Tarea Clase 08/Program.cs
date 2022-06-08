@@ -1,5 +1,7 @@
 ﻿// Tarea Clase 08 - 20/05
 
+// Resolucion: https://www.youtube.com/watch?v=WR7ANihIHG4
+
 //1) Crear una matriz de dos dimensiones de tipo int llamada números,
 //2) Determinar el tamaño de cada dimensión (fila, columnas) mediante valores ingresados por pantalla
 //3) Declarar un vector de tipo double llamado promedios
