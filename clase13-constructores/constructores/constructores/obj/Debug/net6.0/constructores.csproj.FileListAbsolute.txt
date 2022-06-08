@@ -1,0 +1,15 @@
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\bin\Debug\net6.0\constructores.exe
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\bin\Debug\net6.0\constructores.deps.json
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\bin\Debug\net6.0\constructores.runtimeconfig.json
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\bin\Debug\net6.0\constructores.dll
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\bin\Debug\net6.0\constructores.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\obj\Debug\net6.0\constructores.csproj.AssemblyReference.cache
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\obj\Debug\net6.0\constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\obj\Debug\net6.0\constructores.AssemblyInfoInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\obj\Debug\net6.0\constructores.AssemblyInfo.cs
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\obj\Debug\net6.0\constructores.csproj.CoreCompileInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\obj\Debug\net6.0\constructores.dll
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\obj\Debug\net6.0\refint\constructores.dll
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\obj\Debug\net6.0\constructores.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\obj\Debug\net6.0\constructores.genruntimeconfig.cache
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\constructores\constructores\obj\Debug\net6.0\ref\constructores.dll
