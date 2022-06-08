@@ -1,7 +1,7 @@
-﻿/*
- 
-Clase 10 - Listas 26/05/22
+﻿ 
+//Clase 10 - Listas 26/05/22
 
+/*
 1) Arrays
 2) Listas
 3) Colas
