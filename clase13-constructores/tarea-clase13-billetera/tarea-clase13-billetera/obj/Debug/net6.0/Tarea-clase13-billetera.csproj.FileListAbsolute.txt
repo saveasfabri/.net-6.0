@@ -1,0 +1,15 @@
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\bin\Debug\net6.0\Tarea-clase13-billetera.exe
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\bin\Debug\net6.0\Tarea-clase13-billetera.deps.json
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\bin\Debug\net6.0\Tarea-clase13-billetera.runtimeconfig.json
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\bin\Debug\net6.0\Tarea-clase13-billetera.dll
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\bin\Debug\net6.0\Tarea-clase13-billetera.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\obj\Debug\net6.0\Tarea-clase13-billetera.csproj.AssemblyReference.cache
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\obj\Debug\net6.0\Tarea-clase13-billetera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\obj\Debug\net6.0\Tarea-clase13-billetera.AssemblyInfoInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\obj\Debug\net6.0\Tarea-clase13-billetera.AssemblyInfo.cs
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\obj\Debug\net6.0\Tarea-clase13-billetera.csproj.CoreCompileInputs.cache
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\obj\Debug\net6.0\Tarea-clase13-billetera.dll
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\obj\Debug\net6.0\refint\Tarea-clase13-billetera.dll
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\obj\Debug\net6.0\Tarea-clase13-billetera.pdb
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\obj\Debug\net6.0\Tarea-clase13-billetera.genruntimeconfig.cache
+C:\Users\fazer\source\repos\.net-6.0\clase13-constructores\tarea-clase13-billetera\tarea-clase13-billetera\obj\Debug\net6.0\ref\Tarea-clase13-billetera.dll

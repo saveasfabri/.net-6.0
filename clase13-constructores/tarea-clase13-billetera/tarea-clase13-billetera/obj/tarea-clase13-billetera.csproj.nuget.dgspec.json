@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase13-constructores\\tarea-clase13-billetera\\tarea-clase13-billetera\\tarea-clase13-billetera.csproj": {}
+    "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase13-constructores\\tarea-clase13-billetera\\tarea-clase13-billetera\\Tarea-clase13-billetera.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase13-constructores\\tarea-clase13-billetera\\tarea-clase13-billetera\\tarea-clase13-billetera.csproj": {
+    "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase13-constructores\\tarea-clase13-billetera\\tarea-clase13-billetera\\Tarea-clase13-billetera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase13-constructores\\tarea-clase13-billetera\\tarea-clase13-billetera\\tarea-clase13-billetera.csproj",
-        "projectName": "tarea-clase13-billetera",
-        "projectPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase13-constructores\\tarea-clase13-billetera\\tarea-clase13-billetera\\tarea-clase13-billetera.csproj",
+        "projectUniqueName": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase13-constructores\\tarea-clase13-billetera\\tarea-clase13-billetera\\Tarea-clase13-billetera.csproj",
+        "projectName": "Tarea-clase13-billetera",
+        "projectPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase13-constructores\\tarea-clase13-billetera\\tarea-clase13-billetera\\Tarea-clase13-billetera.csproj",
         "packagesPath": "C:\\Users\\fazer\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\fazer\\source\\repos\\.net-6.0\\clase13-constructores\\tarea-clase13-billetera\\tarea-clase13-billetera\\obj\\",
         "projectStyle": "PackageReference",
